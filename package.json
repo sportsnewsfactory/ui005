@@ -24,10 +24,5 @@
     "styled-components": "^6.1.11",
     "svgmap": "^2.10.1",
     "typescript": "5.4.5"
-  },
-  "devDependencies": {
-    "@types/bcryptjs": "^2.4.6",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0"
   }
 }
